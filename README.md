@@ -37,7 +37,7 @@
 
 ```yaml
 name: Shiveen Sharma
-role: Cloud Engineer | Aspiring Cloud Data Engineer
+role: Cloud Engineer | Cloud Architech
 education: MCA (in progress) | BCA in AI & Data Analytics — LNCT Bhopal
 focus: Cloud Infrastructure · Event-Driven Architecture · Data Engineering · DevOps Automation
 philosophy: "Infrastructure should be reproducible, observable, and boring — in the best way."
@@ -227,15 +227,6 @@ Independently designing, deploying, and troubleshooting production-style AWS and
 
 ![SAA](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-SAA--C03-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CLF](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-CLF--C02-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-### 💻 Coding Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Shiveen-Sharma)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/Shiveen-Sharma)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/Shiveen-Sharma)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-4C1D95?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/Shiveen-Sharma)
 
 ---
 
