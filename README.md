@@ -19,8 +19,8 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-shiveen.site-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://www.shiveen.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-handle)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shiveen-sharma)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-shiveen.sharma05@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Shiveen--Sharma-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shiveen-Sharma)
 
 <br/>
@@ -295,7 +295,7 @@ open_to:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-your--email%40example.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](shiveen.sharma05@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-your--email%40example.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-shiveen.sharma05@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shiveen-sharma)
 [![GitHub](https://img.shields.io/badge/GitHub-Shiveen--Sharma-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shiveen-Sharma)
 [![Portfolio](https://img.shields.io/badge/Portfolio-shiveen.site-4C1D95?style=for-the-badge&logo=vercel&logoColor=white)](https://www.shiveen.site)
